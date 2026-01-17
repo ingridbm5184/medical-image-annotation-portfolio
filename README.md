@@ -4,7 +4,7 @@
 Experienced **Radiology Technologist** with 16+ years in diagnostic imaging (X-ray, CT, MRI & Mammography).  
 Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest X-ray** dataset.
 
-### Focus
+### Focus:
 - High-precision bounding boxes and polygons for pathologies and artifacts  
 - Emphasis on clinical accuracy (anatomy, devices, quality control)  
 - Transferable skills for AI training in radiology and healthcare informatics
@@ -14,7 +14,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
 **Annotations** • 15 images with pathologies, normal cases and common artifacts
 
 ### 📋 Pathologies & Artifacts Annotated
-**Pathologies**
+**Pathologies:**
 - Pneumonia 🩺
 - Cardiomegaly ❤️
 - Nodule 🔴
@@ -26,7 +26,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
 - Fibrosis 🧵
 - Mass 🟣
 
-**Artifacts & Devices**
+**Artifacts & Devices:**
 - Pacemaker (including leads) ⚡
 - Central Venous Catheter (CVC) 🧪
 - Sternal Wires 🔗
@@ -38,7 +38,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
 **Other**  
 - No Finding (normal images) ✅
 
-### 📸 Examples (click for full view)
+### 📸 Examples (click for full view):
   
   - Cardiomegaly + Pacemaker + Aortic Valve Prosthesis: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
   - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before_(2).png) | [After](rx_torax/after/effusion_after_(2).png)
@@ -56,7 +56,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
   - Infiltration: [Before](rx_torax/before/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
   - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
 
-### 🛠️ Tech & Tools
+### 🛠️ Tech & Tools:
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
 ![NIH Chest X-ray](https://img.shields.io/badge/Dataset-NIH%20Chest%20X--ray-orange?style=for-the-badge)  
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-Radiology-green?style=for-the-badge)  
