@@ -8,12 +8,22 @@ This portfolio showcases hands-on practice in medical image annotation using CVA
 - 15 images annotated with 12+ pathologies (Pneumonia, Cardiomegaly, Nodule, Effusion, etc.) and artifacts (Pacemaker, CVC, Sternal Wires, Surgical Clips, Humeral Plate).
 - Tools: CVAT (bounding boxes and polygons).
 - Examples (click for full view):
+  
+  - Cardiomegaly + Pacemaker + Aortic Valve Prosthesis: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
+  - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before(2).png) | [After](rx_torax/after/effusion_after(2).png)
+  - Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
+  - Chemotherapy catheter: [Before](rx_torax/after/chemotherapy_before.png) | [After](rx_torax/after/chemotherapy_after.png)
+  - Effusion + CVC: [Before](rx_torax/after/effusion_before.png) | [After](rx_torax/after/effusion_after.png)
+  - Pneumothorax + Atelectasis: [Before](rx_torax/after/atelectasy_before.png) | [After](rx_torax/after/atelectasy_after.png)
+  - Hernia + Surgical clips + Humeral locking plate: [Before](rx_torax/after/hernia_before.png) | [After](rx_torax/after/hernia_after.png)
+  - Fibrosis: [Before](rx_torax/after/fibrosis_before.png) | [After](rx_torax/after/fibrosis_after.png)
+  - Mass: [Before](rx_torax/after/mass_before.png) | [After](rx_torax/after/mass_after.png)
+  - Nodule: [Before](rx_torax/after/nodule_before.png) | [After](rx_torax/after/nodule_after.png)
+  - Normal: [Before](rx_torax/after/normal_before.png) | [After](rx_torax/after/normal_after.png)
+  - Pneumothorax + Snap fasteners + Catheter: [Before](rx_torax/after/pneumothorax_before.png) | [After](rx_torax/after/pneumothorax_after.png)
   - Pneumonia: [Before](rx_torax/before/pneumonia_before.png) | [After](rx_torax/after/pneumonia_after.png)
-  - Cardiomegaly + Pacemaker: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
-  - Mass + Effusion: [Before](rx_torax/before/effusion_before(2).png) | [After](rx_torax/after/effusion_after(2).png)
-  - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
-  - (Agrega 4-6 pares más de tus 15 favoritos, usando los nombres reales)
-  - 
+  - Emphysema: [Before](rx_torax/after/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
+  - Infiltration: [Before](rx_torax/after/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
 
 ### Coming Soon
 - Mammography Annotation Portfolio
