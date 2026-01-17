@@ -1,3 +1,5 @@
+![Medical Image Annotation Portfolio](cover.png)
+
 # Medical Image Annotation Portfolio
 
 Radiology Technologist with 16+ years experience in X-ray, CT, MRI & Mammography.
