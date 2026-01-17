@@ -47,13 +47,13 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
   - Effusion + CVC: [Before](rx_torax/before/effusion_before.png) | [After](rx_torax/after/effusion_after.png)
   - Pneumothorax + Atelectasis: [Before](rx_torax/before/atelectasy_before.png) | [After](rx_torax/after/atelectasy_after.png)
   - Hernia + Surgical clips + Humeral locking plate: [Before](rx_torax/before/hernia_before.png) | [After](rx_torax/after/hernia_after.png)
-  - Fibrosis: [Before](rx_torax/after/fibrosis_before.png) | [After](rx_torax/after/fibrosis_after.png)
-  - Mass: [Before](rx_torax/after/mass_before.png) | [After](rx_torax/after/mass_after.png)
-  - Nodule: [Before](rx_torax/after/nodule_before.png) | [After](rx_torax/after/nodule_after.png)
-  - Pneumothorax + Snap fasteners + Catheter: [Before](rx_torax/after/pneumothorax_before.png) | [After](rx_torax/after/pneumothorax_after.png)
+  - Fibrosis: [Before](rx_torax/before/fibrosis_before.png) | [After](rx_torax/after/fibrosis_after.png)
+  - Mass: [Before](rx_torax/before/mass_before.png) | [After](rx_torax/after/mass_after.png)
+  - Nodule: [Before](rx_torax/before/nodule_before.png) | [After](rx_torax/after/nodule_after.png)
+  - Pneumothorax + Snap fasteners + Catheter: [Before](rx_torax/before/pneumothorax_before.png) | [After](rx_torax/after/pneumothorax_after.png)
   - Pneumonia: [Before](rx_torax/before/pneumonia_before.png) | [After](rx_torax/after/pneumonia_after.png)
-  - Emphysema: [Before](rx_torax/after/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
-  - Infiltration: [Before](rx_torax/after/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
+  - Emphysema: [Before](rx_torax/before/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
+  - Infiltration: [Before](rx_torax/before/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
   - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
 
 ### 🛠️ Tech & Tools
@@ -72,6 +72,6 @@ Remote freelance / full-time roles in:
 
 **Contact**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-bernal-2bb484341/)  
-📧 ingridbm5184@gmail.com
+📧 ingridbernalme@gmail.com
 
 Thank you for visiting! 🚀
