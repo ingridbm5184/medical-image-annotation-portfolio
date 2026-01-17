@@ -4,7 +4,7 @@ Radiology Technologist with 16+ years experience in X-ray, CT, MRI & Mammography
 
 This portfolio showcases hands-on practice in medical image annotation using CVAT on NIH Chest X-ray dataset (and more modalities soon: Mammography, CT, MRI).
 
-### RX Tórax (Chest X-ray) Annotations
+### Chest X-ray Annotations
 - 15 images annotated with 12+ pathologies (Pneumonia, Cardiomegaly, Nodule, Effusion, etc.) and artifacts (Pacemaker, CVC, Sternal Wires, Surgical Clips, Humeral Plate).
 - Tools: CVAT (bounding boxes and polygons).
 - Examples (click for full view):
