@@ -10,7 +10,7 @@ This portfolio showcases hands-on practice in medical image annotation using CVA
 - Examples (click for full view):
   
   - Cardiomegaly + Pacemaker + Aortic Valve Prosthesis: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
-  - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before(2).png) | [After](rx_torax/after/effusion_after(2).png)
+  - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before (2).png) | [After](rx_torax/after/effusion_after (2).png)
   - Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
   - Chemotherapy catheter: [Before](rx_torax/after/chemotherapy_before.png) | [After](rx_torax/after/chemotherapy_after.png)
   - Effusion + CVC: [Before](rx_torax/after/effusion_before.png) | [After](rx_torax/after/effusion_after.png)
