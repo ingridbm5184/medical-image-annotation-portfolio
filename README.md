@@ -22,4 +22,4 @@ This portfolio showcases hands-on practice in medical image annotation using CVA
 
 Open to remote freelance/full-time in medical image annotation, radiology workflow support or healthcare informatics!
 
-Contact: [tu LinkedIn link] | [tu email]
+Contact: [(https://www.linkedin.com/in/ingrid-bernal-2bb484341/)] | [ingridbernalme@gmail.com]
