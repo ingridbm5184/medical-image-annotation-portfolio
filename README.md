@@ -54,7 +54,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
   - Pneumonia: [Before](rx_torax/before/pneumonia_before.png) | [After](rx_torax/after/pneumonia_after.png)
   - Emphysema: [Before](rx_torax/after/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
   - Infiltration: [Before](rx_torax/after/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
-  - Normal: [Before](rx_torax/after/normal_before.png) | [After](rx_torax/after/normal_after.png)
+  - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
 
 ### 🛠️ Tech & Tools
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
