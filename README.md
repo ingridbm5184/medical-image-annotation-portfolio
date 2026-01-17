@@ -1,4 +1,4 @@
-![Medical Image Annotation Portfolio](cover2.png)
+![Medical Image Annotation Portfolio](cover4.png)
 
 # Medical Image Annotation Portfolio
 
