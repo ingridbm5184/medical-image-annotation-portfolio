@@ -32,7 +32,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
 - Sternal Wires 🔗
 - Surgical Clips / Staples 📌
 - Chemotherapy Catheter 💉
-- Aortic Valve Prosthesis 🔩
+- Prosthetic Heart Valve 🔩
 - Humeral Plate 🦴
 
 **Other**  
@@ -40,7 +40,7 @@ Hands-on practice in medical image annotation using **CVAT** on the **NIH Chest 
 
 ### 📸 Examples (click for full view):
   
-  - Cardiomegaly + Pacemaker + Aortic Valve Prosthesis: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
+  - Cardiomegaly + Pacemaker + Prosthetic Heart Valve: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
   - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before_(2).png) | [After](rx_torax/after/effusion_after_(2).png)
   - Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
   - Chemotherapy catheter: [Before](rx_torax/before/chemotherapy_before.png) | [After](rx_torax/after/chemotherapy_after.png)
