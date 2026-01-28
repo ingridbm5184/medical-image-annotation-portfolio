@@ -41,7 +41,7 @@ Hands-on practice in medical image annotation using **CVAT** and **MakeSense.ai*
   - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
 
 
-** 🎗️ Mamografía Examples**:
+**🎗️ Mamografía Examples**:
 - Amorphous Calcifications (Magnification MLO): [Before](mammography/before/amorphous_calcifications_mag_mlo_before.png) | [After](mammography/after/amorphous_calcifications_mag_mlo_after.png)
 - Enhancing Mass Spiculated (MLO): [Before](mammography/before/enhancing_mass_spiculated__mlo_before.png) | [After](mammography/after/enhancing_mass_spiculated__mlo_after.png)
 - Fibroadenoma (CC): [Before](mammography/before/fibroadenoma_cc_before.png) | [After](mammography/after/fibroadenoma_cc_after.png)
