@@ -24,10 +24,22 @@ Hands-on practice in medical image annotation using **CVAT** and **MakeSense.ai*
 ### 📸 Examples (click for full view)
 
 **RX Tórax Examples** (from NIH Chest X-ray dataset):
-- Cardiomegaly + Pacemaker + Prosthetic Heart Valve: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
-- Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before_(2).png) | [After](rx_torax/after/effusion_after_(2).png)
-- Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
-- (agrega más ejemplos de RX si querés, o deja solo 3–5 para no alargar)
+  - Cardiomegaly + Pacemaker + Prosthetic Heart Valve: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
+  - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before_(2).png) | [After](rx_torax/after/effusion_after_(2).png)
+  - Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
+  - Chemotherapy catheter: [Before](rx_torax/before/chemotherapy_before.png) | [After](rx_torax/after/chemotherapy_after.png)
+  - Effusion + CVC: [Before](rx_torax/before/effusion_before.png) | [After](rx_torax/after/effusion_after.png)
+  - Pneumothorax + Atelectasis: [Before](rx_torax/before/atelectasy_before.png) | [After](rx_torax/after/atelectasy_after.png)
+  - Hernia + Surgical clips + Humeral locking plate: [Before](rx_torax/before/hernia_before.png) | [After](rx_torax/after/hernia_after.png)
+  - Fibrosis: [Before](rx_torax/before/fibrosis_before.png) | [After](rx_torax/after/fibrosis_after.png)
+  - Mass: [Before](rx_torax/before/mass_before.png) | [After](rx_torax/after/mass_after.png)
+  - Nodule: [Before](rx_torax/before/nodule_before.png) | [After](rx_torax/after/nodule_after.png)
+  - Pneumothorax + Snap fasteners + Catheter: [Before](rx_torax/before/pneumothorax_before.png) | [After](rx_torax/after/pneumothorax_after.png)
+  - Pneumonia: [Before](rx_torax/before/pneumonia_before.png) | [After](rx_torax/after/pneumonia_after.png)
+  - Emphysema: [Before](rx_torax/before/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
+  - Infiltration: [Before](rx_torax/before/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
+  - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
+
 
 **Mamografía Examples** (new):
 - Amorphous Calcifications (Magnification MLO): [Before](mammography/before/amorphous_calcifications_mag_mlo_before.png) | [After](mammography/after/amorphous_calcifications_mag_mlo_after.png)
