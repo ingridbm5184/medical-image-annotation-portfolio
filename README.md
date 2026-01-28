@@ -23,7 +23,7 @@ Hands-on practice in medical image annotation using **CVAT** and **MakeSense.ai*
 
 ### 📸 Examples (click for full view)
 
-**RX Tórax Examples** (from NIH Chest X-ray dataset):
+**🫁 RX Tórax Examples** (from NIH Chest X-ray dataset):
   - Cardiomegaly + Pacemaker + Prosthetic Heart Valve: [Before](rx_torax/before/cardiomegaly_before.png) | [After](rx_torax/after/cardiomegaly_after.png)
   - Mass + Effusion + Chemotherapy catheter: [Before](rx_torax/before/effusion_before_(2).png) | [After](rx_torax/after/effusion_after_(2).png)
   - Atelectasis + PICC line: [Before](rx_torax/before/atelectasis_before.png) | [After](rx_torax/after/atelectasis_after.png)
@@ -41,7 +41,7 @@ Hands-on practice in medical image annotation using **CVAT** and **MakeSense.ai*
   - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
 
 
-**Mamografía Examples**:
+** 🎗️ Mamografía Examples**:
 - Amorphous Calcifications (Magnification MLO): [Before](mammography/before/amorphous_calcifications_mag_mlo_before.png) | [After](mammography/after/amorphous_calcifications_mag_mlo_after.png)
 - Enhancing Mass Spiculated (MLO): [Before](mammography/before/enhancing_mass_spiculated__mlo_before.png) | [After](mammography/after/enhancing_mass_spiculated__mlo_after.png)
 - Fibroadenoma (CC): [Before](mammography/before/fibroadenoma_cc_before.png) | [After](mammography/after/fibroadenoma_cc_after.png)
@@ -66,6 +66,6 @@ Remote freelance / full-time roles in:
 - Radiology Workflow Support / PACS-RIS
 - Clinical Imaging Informatics / Healthcare Tech
 
-Contact: LinkedIn [tu link] | Email ingridbm5184@gmail.com
+Contact: LinkedIn: https://www.linkedin.com/in/ingrid-bernal-2bb484341/ | Email: ingridbm5184@gmail.com
 
 Thanks for visiting! 💙
