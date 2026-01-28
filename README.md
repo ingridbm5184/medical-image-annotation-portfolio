@@ -71,6 +71,6 @@ Remote freelance / full-time roles in:
 - Radiology Informatics & Workflow Support  
 - Clinical Imaging Informatics / Healthcare Tech  
 
-Contact: LinkedIn https://www.linkedin.com/in/ingrid-bernal-2bb484341/ | Email ingridbm5184@gmail.com
+Contact: [in] https://www.linkedin.com/in/ingrid-bernal-2bb484341/ | ✉︎ ingridbm5184@gmail.com
 
 Thanks for visiting! 💙
