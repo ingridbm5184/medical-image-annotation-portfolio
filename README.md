@@ -73,6 +73,17 @@ Examples (click for full view):
 - Normal (lung): [Before](ct/ct/before/normal_ct_lung_before.png) | [After](ct/ct/after/normal_ct_lung_after.png)
 - Normal (abdomen): [Before](ct/ct/before/normal2_abd_before.png) | [After](ct/ct/after/normal2_abd_after.png)
 
+### 🧠 RM Volumetric Annotation (3D Segmentation Example)
+Small 3D segmentation example of contrast-enhanced brain tumor (multiple axial slices).  
+Tool: 3D Slicer (Segment Editor + Islands for component isolation)  
+Tumor segmented in red and isolated from surrounding structures (skull/calota also labeled for reference).  
+
+Examples (click for full view):  
+- Axial slice with tumor: [Before](mri/before/mri_brain_tumor_axial_001_before.png) | [After](mri/after/mri_brain_tumor_axial_001_after.png)  
+- 3D isolated render of segmented tumor: [View](mri/mri_brain_tumor_3d_render.png)  
+
+Note: Segmentation performed on 5–10 key slices, with automatic interpolation and cleaning using Islands function. More CT/RM 2D annotations coming soon.
+
 ### 🛠️ Tech & Tools
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
 ![MakeSense.ai](https://img.shields.io/badge/MakeSense.ai-Annotation%20Tool-green?style=for-the-badge)  
