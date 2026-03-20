@@ -64,14 +64,14 @@ Other: No Finding (normal images)
 - Note: Annotations focus on pathological findings only (technical markers ignored)
 
 Examples (click for full view):
-- COVID (ground glass): [Before](ct/before/COVID_before.png) | [After](ct/after/COVID_after.png)
-- Pulmonary Embolism (TEP): [Before](ct/before/pulmonary_embolism_before.png) | [After](ct/after/pulmonary_embolism_after.png)
-- Hydatid Cyst (liver): [Before](ct/before/hydatid_cyst_liver_before.png) | [After](ct/after/hydatid_cyst_liver_after.png)
-- Pulmonary Metastasis: [Before](ct/before/pulmonar_metastasi_before.png) | [After](ct/after/pulmonar_metastasi_after.png)
-- Solitary Pulmonary Nodule: [Before](ct/before/solitary_pulmonary_nodule_before.png) | [After](ct/after/solitary_pulmonary_nodule_after.png)
-- Hepatic Hemangioma: [Before](ct/before/hepatic_hemangioma_before.png) | [After](ct/after/hepatic_hemangioma_after.png)
-- Normal (lung): [Before](ct/before/normal_ct_lung_before.png) | [After](ct/after/normal_ct_lung_after.png)
-- Normal (abdomen): [Before](ct/before/normal2_abd_before.png) | [After](ct/after/normal2_abd_after.png)
+- COVID (ground glass): [Before](ct/ct/before/COVID_before.png) | [After](ct/ct/after/COVID_after.png)
+- Pulmonary Embolism (TEP): [Before](ct/ct/before/pulmonary_embolism_before.png) | [After](ct/ct/after/pulmonary_embolism_after.png)
+- Hydatid Cyst (liver): [Before](ct/ct/before/hydatid_cyst_liver_before.png) | [After](ct/ct/after/hydatid_cyst_liver_after.png)
+- Pulmonary Metastasis: [Before](ct/ct/before/pulmonar_metastasi_before.png) | [After](ct/ct/after/pulmonar_metastasi_after.png)
+- Solitary Pulmonary Nodule: [Before](ct/ct/before/solitary_pulmonary_nodule_before.png) | [After](ct/ct/after/solitary_pulmonary_nodule_after.png)
+- Hepatic Hemangioma: [Before](ct/ct/before/hepatic_hemangioma_before.png) | [After](ct/ct/after/hepatic_hemangioma_after.png)
+- Normal (lung): [Before](ct/ct/before/normal_ct_lung_before.png) | [After](ct/ct/after/normal_ct_lung_after.png)
+- Normal (abdomen): [Before](ct/ct/before/normal2_abd_before.png) | [After](ct/ct/after/normal2_abd_after.png)
 
 ### 🛠️ Tech & Tools
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
