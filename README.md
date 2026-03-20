@@ -3,14 +3,16 @@
 # 🩻 Medical Image Annotation Portfolio
 
 Experienced **Radiology Technologist** with 16+ years in diagnostic imaging (X-ray, CT, MRI & Mammography).  
-Hands-on practice in medical image annotation using **CVAT** and **MakeSense.ai**.
+Hands-on practice in medical image annotation using **CVAT**, **MakeSense.ai**, **Label Studio** and **3D Slicer**.
 
-Focus: High-precision labeling of pathologies and artifacts for AI training in healthcare.
+Focus: High-precision labeling of pathologies and artifacts for AI training in healthcare.  
+Emphasis on polygons for irregular boundaries and clinical accuracy.
 
 ### Annotated Modalities
-- Chest X-ray (NIH Chest X-ray dataset) – 15 images
-- Mammography (CC, MLO & magnification views) – 9 images
-- CT & MRI – coming soon
+- Chest X-ray (NIH Chest X-ray dataset) – 15 images  
+- Mammography (CC, MLO & magnification views) – 9 images  
+- CT (axial views, lung & soft tissue windows) – 8 images  
+- RM (volumetric 3D segmentation example) – brain tumor
 
 ### 🫁 Chest X-ray Annotations
 - Dataset: NIH Chest X-ray (public, educational use)
@@ -38,7 +40,6 @@ Other: No Finding (normal images)
   - Emphysema: [Before](rx_torax/before/emphysema_before.png) | [After](rx_torax/after/emphysema_after.png)
   - Infiltration: [Before](rx_torax/before/infiltration_before.png) | [After](rx_torax/after/infiltration_after.png)
   - Normal: [Before](rx_torax/before/normal_before.png) | [After](rx_torax/after/normal_after.png)
-
 
 ### 🎗️ Mammography Annotations
 - Views: CC, MLO and magnification
@@ -73,7 +74,7 @@ Examples (click for full view):
 - Normal (lung): [Before](ct/ct/before/normal_ct_lung_before.png) | [After](ct/ct/after/normal_ct_lung_after.png)
 - Normal (abdomen): [Before](ct/ct/before/normal2_abd_before.png) | [After](ct/ct/after/normal2_abd_after.png)
 
-### 🧠 RM Volumetric Annotation (3D Segmentation Example)
+### 🧠 MRI Volumetric Annotation (3D Segmentation Example)
 Small 3D segmentation example of contrast-enhanced brain tumor (multiple axial slices).  
 Tool: 3D Slicer (Segment Editor + Islands for component isolation)  
 Tumor segmented in red and isolated from surrounding structures (skull/calota also labeled for reference).  
@@ -82,11 +83,13 @@ Examples (click for full view):
 - Axial slice with tumor: [Before](mri/mri_brain_tumor_axial_001_before.png) | [After](mri/mri_brain_tumor_axial_001_after.png)  
 - 3D isolated render of segmented tumor: [View](mri/mri_brain_tumor_3d_render.png)  
 
-Note: Segmentation performed on 5–10 key slices, with automatic interpolation and cleaning using Islands function. More CT/RM 2D annotations coming soon.
+Note: Segmentation performed on 5–10 key slices, with automatic interpolation and cleaning using Islands function. More RM 2D annotations coming soon.
 
 ### 🛠️ Tech & Tools
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
 ![MakeSense.ai](https://img.shields.io/badge/MakeSense.ai-Annotation%20Tool-green?style=for-the-badge)  
+![Label Studio](https://img.shields.io/badge/Label%20Studio-Annotation%20Tool-purple?style=for-the-badge)  
+![3D Slicer](https://img.shields.io/badge/3D%20Slicer-Volumetric%20Tool-orange?style=for-the-badge)  
 ![NIH Chest X-ray](https://img.shields.io/badge/Dataset-NIH%20Chest%20X--ray-orange?style=for-the-badge)  
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-Radiology-green?style=for-the-badge)  
 ![Remote Work](https://img.shields.io/badge/Remote%20Work-Open-blueviolet?style=for-the-badge)  
