@@ -80,7 +80,7 @@ Tool: 3D Slicer (Segment Editor + Islands for component isolation)
 Tumor segmented in red and isolated from surrounding structures (skull/calota also labeled for reference).  
 
 Examples (click for full view):  
-- Axial slice with tumor: [Before](mri/mri_brain_tumor_axial_001_before.png) | [After](mri/mri_brain_tumor_axial_001_after.png)  
+- Axial, Coronal and Sagittal view with tumor: [Before](mri/mri_brain_tumor_axial_001_before.png) | [After](mri/mri_brain_tumor_axial_001_after.png)  
 - 3D isolated render of segmented tumor: [View](mri/mri_brain_tumor_3d_render.png)  
 
 Note: Segmentation performed on 5–10 key slices, with automatic interpolation and cleaning using Islands function. More RM 2D annotations coming soon.
