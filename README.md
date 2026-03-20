@@ -57,6 +57,22 @@ Other: No Finding (normal images)
 - Normal (MLO): [Before](mammography/before/normal_mlo_before.png) | [After](mammography/after/normal_mlo_after.png)
 - Radial Scar (CC): [Before](mammography/before/radial_scar_cc_before.png) | [After](mammography/after/radial_scar_cc_after.png)
 
+### 🫀 CT Annotations
+- 8 images (axial views, lung & soft tissue windows)
+- Pathologies: COVID (ground glass/consolidation), Pulmonary Embolism (TEP), Hydatid Cyst (liver), Lung Metastasis, Solitary Pulmonary Nodule, Hepatic Hemangioma, Normal (lung & abdomen)
+- Tool: Label Studio (bounding boxes & polygons for precise boundary delineation)
+- Note: Annotations focus on pathological findings only (technical markers ignored)
+
+Examples (click for full view):
+- COVID (ground glass): [Before](ct/before/COVID_before.png) | [After](ct/after/COVID_after.png)
+- Pulmonary Embolism (TEP): [Before](ct/before/pulmonary_embolism_before.png) | [After](ct/after/pulmonary_embolism_after.png)
+- Hydatid Cyst (liver): [Before](ct/before/hydatid_cyst_liver_before.png) | [After](ct/after/hydatid_cyst_liver_after.png)
+- Pulmonary Metastasis: [Before](ct/before/pulmonar_metastasi_before.png) | [After](ct/after/pulmonar_metastasi_after.png)
+- Solitary Pulmonary Nodule: [Before](ct/before/solitary_pulmonary_nodule_before.png) | [After](ct/after/solitary_pulmonary_nodule_after.png)
+- Hepatic Hemangioma: [Before](ct/before/hepatic_hemangioma_before.png) | [After](ct/after/hepatic_hemangioma_after.png)
+- Normal (lung): [Before](ct/before/normal_ct_lung_before.png) | [After](ct/after/normal_ct_lung_after.png)
+- Normal (abdomen): [Before](ct/before/normal2_abd_before.png) | [After](ct/after/normal2_abd_after.png)
+
 ### 🛠️ Tech & Tools
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
 ![MakeSense.ai](https://img.shields.io/badge/MakeSense.ai-Annotation%20Tool-green?style=for-the-badge)  
